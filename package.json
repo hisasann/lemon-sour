@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/hisasann/lemon-sour/issues"
   },
-  "homepage": "https://github.com/hisasann/lemon-sour#readme"
+  "homepage": "https://github.com/hisasann/lemon-sour#readme",
+  "dependencies": {
+    "electron": "^1.4.15",
+    "normalize.css": "^5.0.0"
+  }
 }
